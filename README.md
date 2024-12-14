@@ -79,7 +79,7 @@ print(round(result))
 
 ## Output:
 ### 1-Norm of a Matrix
-1[output](exp7.png)
+![output](exp7.png)
 
 ### 2-Norm of a Matrix
 ![output](exp7(1).png)
